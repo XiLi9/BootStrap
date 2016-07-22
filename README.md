@@ -1,0 +1,2 @@
+# BootStrap
+利用BootStrap框架开发的两个网页，index.html网页对目前主流的几种浏览器进行总结，采用carousel和slide实现滑窗效果，collapse实现菜单的堆叠，dropdown实现下拉菜单，以及各种导航元素的实现，完成一个较为丰富的网页；example.html网页主要是使用栅格来对网页进行排版，其中也涉及到了对面板，警告框，进度条等操作。
